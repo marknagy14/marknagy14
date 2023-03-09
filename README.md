@@ -27,11 +27,8 @@ https://www.linkedin.com/in/mark-nagy-rizkallah-a00958234?lipi=urn%3Ali%3Apage%3
 
 - ⚡ Fun fact: The first computer virus was a Creeper.
 
-
-
-
 ![](https://raw.githubusercontent.com/marknagy14/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/marknagy14/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 ![](https://raw.githubusercontent.com/marknagy14/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/marknagy14/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
