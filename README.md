@@ -5,9 +5,8 @@
 
 
 
-- 🔭 I’m currently working on ... computer engineering university projects -database using sql and EER diagrams
-
-
+- 🔭 I’m currently working on ... computer engineering university projects 
+      -database using sql and EER diagrams
       -software testing (JUNIT)
       -design and analysis of algorithms
       -Operating systems scheduler
