@@ -2,7 +2,16 @@
 
 
 
+🚀 About Me
+🎓 I am Mark Nagy, a student in Faculty of Engineerin Ain shams university. Mobile applications developer using Flutter, future embedded systems software engineer. 
 
+👨‍💻 I enjoy contributing Projects and have contributed to several Projects. I am really enthusiastic about learning new technology.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from sports, music, spending time with kids.
+
+📚 I also love reading artciles on personal development. 
+
+✈️ I love traveling too.
 
 
 - 🔭 I’m currently working on ... computer engineering university projects 
