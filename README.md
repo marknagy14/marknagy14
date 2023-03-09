@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<!--
-**marknagy14/marknagy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... computer engineering university projects 
-      -database using sql and EER diagrams
+
+
+
+- 🔭 I’m currently working on ... computer engineering university projects -database using sql and EER diagrams
       -software testing (JUNIT)
       -design and analysis of algorithms
       -Operating systems scheduler
+      
 
 flutter applications
       
