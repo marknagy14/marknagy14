@@ -20,7 +20,7 @@
 
 ## **🔭 I’m currently working on**
 
-- 🚗 My graduation project: ADAS based on V2X and ADAPTIVE AUTOSAR
+- 🚗 My graduation project: ADAS based on **V2X** and **ADAPTIVE AUTOSAR**
 - 📱 Developing new Flutter applications
 
 ---
@@ -28,8 +28,6 @@
 ## **📫 How to reach me**
 
 - **Email:** mark.nagygeorgy2000@yahoo.com
-
-
 
 ## 🌐 Socials:
 <p align="left">
