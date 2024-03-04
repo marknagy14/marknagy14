@@ -19,7 +19,9 @@
 ---
 
 ## **🔭 I’m currently working on**
-
+- Learning RTOS (Real Time Operating Systems)
+- Big Data Fundamentals
+- Digital Verification and Testing
 - 🚗 My graduation project: ADAS based on **V2X** and **ADAPTIVE AUTOSAR**
 - 📱 Developing new Flutter applications
 
