@@ -8,7 +8,7 @@
 
 🎓 I am **Mark Nagy**, a student at the **Faculty of Engineering, Ain Shams University**. Mobile applications developer using **Flutter**, future embedded systems/Autosar software engineer.
 
-👨‍💻 I enjoy contributing to projects and have participated in several. I am enthusiastic about learning new technologies and proficient in using **JAVA, C, C++, Dart, Python, Assembly**. I have experience dealing with microcontrollers like **TIVA-C TM4C123GH6PM(ARM), RaspberryPi, and ATMEGA32 (AVR)**.
+👨‍💻 I enjoy contributing to projects and have participated in several. I am enthusiastic about learning new technologies and proficient in using **JAVA, C, C++, Dart, Python**. I have experience dealing with microcontrollers like **TIVA-C TM4C123GH6PM, RaspberryPi, and ATMEGA32**.
 
 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from sports, music, to spending time with kids.
 
